@@ -6,8 +6,6 @@ A modern, responsive Tic-Tac-Toe web application with two gameplay modes:
 
 Built using **HTML, CSS, and JavaScript**, this project demonstrates game logic, UI design, and AI decision-making.
 
----
-
 ## Features
 
 - Two game modes:
@@ -24,24 +22,17 @@ Built using **HTML, CSS, and JavaScript**, this project demonstrates game logic,
 -  New Match & Reset options
 -  Exit to main menu functionality
 
----
-
-
 ## Technologies Used
 
 - HTML5
 - CSS3 (Flexbox, Grid, Animations)
 - JavaScript (DOM Manipulation, Game Logic)
 
----
-
 ## 📂 Project Structure
 
 ```
 ├── index.html   # Main game file (HTML + CSS + JS)
 ```
-
----
 
 ## How to Run
 
